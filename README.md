@@ -12,6 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello there.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kalvin807&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalvin807)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my github repo, hope you find something interesting :)
+
+```
+░░░░░░░░░░░░░░░░░░░░
+░▄▀▄▀▀▀▀▄▀▄░░░░░░░░░
+░█░░░░░░░░▀▄░░░░░░▄░
+█░░▀░░▀░░░░░▀▄▄░░█░█
+█░▄░█▀░▄░░░░░░░▀▀░░█
+█░░▀▀▀▀░░░░░░░░░░░░█
+█░░░░░░░░░░░░░░░░░░█
+█░░░░░░░░░░░░░░░░░░█
+░█░░▄▄░░▄▄▄▄░░▄▄░░█░
+░█░▄▀█░▄▀░░█░▄▀█░▄▀░
+░░▀░░░▀░░░░░▀░░░▀░░░
+```
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kalvin807&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalvin807&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
