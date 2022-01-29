@@ -17,7 +17,7 @@
   </samp>
 </details>
 <details align="center">
-  <summary><b><samp> Stats...</samp></b></summary>
+  <summary><b><samp>Stats...</samp></b></summary>
   <samp>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalvin807&theme=tokyonight&count_private=true&show_icons=true" />
   <br><br/>
