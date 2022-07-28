@@ -8,12 +8,11 @@
 </p>
 <details align="center">
   <summary><b><samp>Learning...</samp></b></summary>
-  <samp>
-    <b>
-      <p style="color: #fc6203">Crab</p>
-    </b>
-    <img src="https://raw.githubusercontent.com/kalvin807/kalvin807/master/assets/your-rust.jpg" width="500" />
-    <b>
+  <samp style={display: flex;}>
+    <img align="center" src="https://raw.githubusercontent.com/kalvin807/kalvin807/master/assets/your-rust.jpg" width="500" />
+    <img align="center" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Go/Kokoa_Hoto_And_Chino_Kafuu_Reading_The_Go_Programming_Language.png" width="500" />
+    <img align="center" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Zero_Two_Holding_Nodejs_8_the_Right_Way.png" width="500" />
+    <img align="center" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Anya_with_python_book.png" width="500" />
   </samp>
 </details>
 <details align="center">
@@ -24,3 +23,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalvin807&theme=tokyonight&hide=jupyter notebook,ShaderLab,c%23&langs_count=10" />
   </samp>
 </details>
+ 
