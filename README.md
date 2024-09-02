@@ -15,12 +15,6 @@
     <img align="center" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Anya_with_python_book.png" width="500" />
   </samp>
 </details>
-<details align="center">
-  <summary><b><samp>Stats...</samp></b></summary>
-  <samp>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalvin807&theme=tokyonight&count_private=true&show_icons=true" />
-  <br><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalvin807&theme=tokyonight&hide=jupyter notebook,ShaderLab,c%23&langs_count=10" />
-  </samp>
-</details>
- 
+![kalvin807's Stats](https://github-readme-stats.vercel.app/api?username=kalvin807&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![kalvin807's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalvin807&theme=tokyonight&hide_border=true)
+![kalvin807's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalvin807&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
